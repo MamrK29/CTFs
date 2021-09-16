@@ -80,6 +80,8 @@ This is the password that we can enter into the login form to get the flag.
 
 Entering this password will take us to another page that will generate the flag.
 
+![GT flag](./GT.PNG)
+
 ## Python Equivalent
 
 However we can also get the flag by using the code below:
