@@ -3,6 +3,6 @@ credit goes to them for the creation and running of these challenges.
 
 List of writeups are available here:  
 
-| Challenge |
+| Challenges |
 | --------- |
 | [Challenge 1](../chal1/chal1.md) |
